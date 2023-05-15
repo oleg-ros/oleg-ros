@@ -7,6 +7,7 @@ Here's a snapshot of my current focus:
 - 🤝 I'm actively seeking opportunities to collaborate on projects related to DevOps and Test Automation.
 - 📫 Reach out to me via LinkedIn for any inquiries or professional connections.
 - ⚡ Fun fact: I'm a unique blend of a DevOps enthusiast and an AQA engineer, bringing the best of both worlds to my work.
+   
 Feel free to explore my repositories and get in touch. Let's connect and make a positive impact in the world of technology together!
 
 <!--
